@@ -1,0 +1,162 @@
+ body{
+    background-color: #f0f8ff;
+    height: 100%;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 25px #E8EFF5 solid;
+    
+ }
+
+ .porfolio{
+   float: left;
+   margin-top: 20px;
+   font-size: 30px;
+   margin-right: 400px;
+   color:rgb(41, 122, 189);
+   position: relative;
+   left: 50px;
+   font-weight: bold;
+ }
+
+ #topbar{
+   height: 40px;
+   width: 1200px;
+   margin: 0;  
+  
+}
+
+.top-menu{
+   
+   font-weight:bold;
+   font-size: 15px;
+   height: 40px;
+   float: left;
+   margin-right: 10px;
+   margin-top: 20px;
+      
+}
+
+.top-menu a{
+   color: #000000;
+   text-decoration: none;
+
+}
+
+.top-menu a:hover{
+text-decoration: underline;
+}
+#instagram{
+   width: 20px;
+   margin-top: 20px;
+   float: right;
+   transition: width 0.4s;
+}
+
+#instagram:hover{
+   width:25px;
+}
+
+#twitter{
+   width: 20px;
+   margin-top: 20px;
+   float: right;
+   margin-right: 15px;
+   transition: width 0.4s;
+}
+
+#twitter:hover{
+   width:25px;
+}
+
+#facebook{
+   width: 20px;
+   margin-top: 20px;
+   float: right;
+   margin-right: 15px;
+   transition: width 0.4s;
+}
+
+#facebook:hover{
+   width:25px;
+}
+
+.clear{
+   clear: both;
+}
+
+#profile-picture{
+   width: 400px;
+   float: right;
+   margin-right: 0px;
+   
+   
+}
+
+#profile{
+   float: left;
+   position: relative;
+   top: 150px;
+   left: 50px;
+
+}
+
+
+.hello{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Name{
+   font-size: 60px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+
+}
+
+.Job{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   color:rgb(41, 122, 189);
+}
+
+.location{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#hire-me-button{
+   background-color: rgb(41, 122, 189);
+   border: none;
+   height: 40px;
+   width: 100px;
+   border-radius: 5px;
+   transition: width 1s;
+}
+
+#hire-me-button:hover{
+   width: 120px;
+}
+
+.hire-me{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #ffffff;
+   text-align: center;
+   padding-top: 8px;
+
+}
+
+#hire-me-button a{
+   text-decoration: none !important;
+}
+
+.hire-me a{
+   color: #ffffff;
+   text-decoration: none !important;
+   text-decoration-color: none;
+}
+
+
+
